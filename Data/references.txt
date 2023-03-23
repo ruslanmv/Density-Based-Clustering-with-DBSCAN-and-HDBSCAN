@@ -1,0 +1,13 @@
+https://michael-fuchs-python.netlify.app/2020/06/20/hdbscan/
+https://www.kaggle.com/code/kvssetty/dbscan-and-hdbscan
+https://www.kaggle.com/code/aditimaurya/clustering
+https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study
+https://www.kaggle.com/code/something4kag/optiver-hdbscan
+https://www.kaggle.com/code/bradysites/forecasting-model-comparison-k-nn-and-hdbscan
+https://www.kaggle.com/code/jominjae/iris-clustering-hdbscan
+https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study
+https://pberba.github.io/stats/2020/07/08/intro-hdbscan/
+https://towardsdatascience.com/an-efficient-implementation-of-dbscan-on-pyspark-3e2be646f57d
+https://github.com/scikit-learn-contrib/hdbscan
+https://hdbscan.readthedocs.io/en/latest/
+https://stackoverflow.com/questions/36090906/dbscan-on-spark-which-implementations
